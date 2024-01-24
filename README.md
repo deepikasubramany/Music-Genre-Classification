@@ -1,9 +1,7 @@
 # Music-Genre-Classification
 
-Music genre classification involves the automated categorization of music tracks into distinct genres based on inherent musical characteristics. This project, titled "Efficient Music Genre Recognition with Deep Learning," explores this field, leveraging the capabilities of deep neural networks. 
-The key points include:
-Significance: Music genre classification is crucial for personalized playlist generation, music recommendation systems, and organizing vast music libraries efficiently.
-Approach: Using a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs) to address challenges in accurate genre classification, especially with overlapping elements and varying song lengths.
+Music genre classification involves the automated categorization of music tracks into distinct genres based on inherent musical characteristics with Deep Learning and with the capabilities of deep neural networks. 
+Music genre classification is crucial for personalized playlist generation, music recommendation systems, and organizing vast music libraries efficiently. Using a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs) to address challenges in accurate genre classification, especially with overlapping elements and varying song lengths.
 
 ## Problem Statement:
 
